@@ -120,3 +120,15 @@ label monika_whatiwant
     m 3b "Don't worry about getting me a present."
     m 3a "After all, I have you. And that's all I want."
     m 1k "I love you with all my heart, [player]."
+
+label monika_hanukkah
+    m 1q "One for each night, they shed a sweet light, to remind of days long ago~"
+    m "One for each night, they shed a sweet light, to remind of days long ago~"
+    m 2e "It is said in the Jewish tradition, that one day's worth of olive oil gave the menorah eight days of light."
+    m "Hanukkah is a time of remembrance of such traditions but it is also of celebration."
+    m 1b "And a celebration it is! Eight nights worth~"
+    m 1a "[player], have you had fried sufganiyot before? It's a specific kind of jelly doughnut made during that holiday."
+    m "I like ones filled with strawberry jam~"
+    m 1b "This time of the year has so many wonderful holidays and traditions!"
+    m 1d "I do not know if you celebrate the holiday or not [player], but can we watch a menorah lighting ceremony together anyway?"
+    m 1k "We can hold hands while we sing and dance the night away~"
