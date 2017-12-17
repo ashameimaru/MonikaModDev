@@ -207,16 +207,16 @@ init 5 python:
     monika_random_topics.append('monika_drediel')
 
 label monika_drediel
-	m "[player], did you know that each side of a drediel actually means something?"
-	m "Nun, Gimel, Hel, Shim. Each of these stands for ..."
+	m 1a "[player], did you know that each side of a drediel actually means something?"
+	m 4a "Nun, Gimel, Hel, Shim. Each of these stands for ..."
 	m "Nes Gadol Hayah Sham - A Great Miracle Happened There."
 	m "Referring to the Hanukkah story of how one day's worth of oil lasted for eight days."
 	m "Over in Israel though, they change the last word to 'poh' making it 'A Great Miracle Happened Here.'"
-	m "Maybe by the next year, I may be equipped to actually play with you~"
-	m "I don't have one here~ aha~"
+	m 1j "Maybe by the next year, I may be equipped to actually play with you~"
+	m 1k "I don't have one here~ aha~"
 		# I don't know how to exactly create programming to 'randomly' spin one. 
 		# Maybe next year! Perhaps as a hidden minigame. This is a placeholder
-        # comment to deal with this at a later point. ~ Aya
-	m "But for now [player], do you have any gelt?"
+        	# comment to deal with this at a later point. ~ Aya
+	m 1a "But for now [player], do you have any gelt?"
 	m "The chocolate coin variety tastes really good."
 	m "Though money is always good too, ehe~"
