@@ -216,4 +216,4 @@ label monika_drediel
     m 1e "I don't have one here this year, unfortunately."
     m 1a "But for now, [player], do you have any gelt?"
     m "The chocolate coin variety tastes really good."
-    m "Though money is always good too, ehe~"
+    m 1j "Though money is always good too, ehe~"
