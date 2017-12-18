@@ -208,12 +208,12 @@ init 5 python:
 
 label monika_drediel
     m 1a "[player], did you know that each side of a drediel actually means something?"
-    m 4a "Nun, Gimel, Hel, Shim. Each of these stands for ..."
+    m 4a "Nun, Gimel, Hel, Shim. These stand for..."
     m "Nes Gadol Hayah Sham - A Great Miracle Happened There."
-    m "Referring to the Hanukkah story of how one day's worth of oil lasted for eight days."
-    m "Over in Israel though, they change the last word to 'poh' making it 'A Great Miracle Happened Here.'"
-    m 1j "Maybe by the next year, I may be equipped to actually play with you~"
-    m 1k "I don't have one here this year~ aha~"
-    m 1a "But for now [player], do you have any gelt?"
+    m "It refers to the Hanukkah story of how one day's worth of oil lasted for eight days."
+    m "Over in Israel, they change the last word to 'poh', making it 'A Great Miracle Happened Here.'"
+    m 1j "Maybe by the next year, I'll have one to spin~"
+    m 1e "I don't have one here this year, unfortunately."
+    m 1a "But for now, [player], do you have any gelt?"
     m "The chocolate coin variety tastes really good."
     m "Though money is always good too, ehe~"
