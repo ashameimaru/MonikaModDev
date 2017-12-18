@@ -179,11 +179,16 @@ label monika_mistletoe
     m 2b "...Maybe I can even add one in here!"
     m 1a "Ehehe~"
 
-#Note: Hanukkah is from Tuesday, December 12 SUNSET to Wed, December 20
+# Note: Hanukkah 2017 is from Tuesday, December 12 SUNSET to Wed, December 20.
+# Hanukkah 2018 is from Sunday, December 2, SUNSET to Monday, December 10.
+# The discrepency is due to the use of the Hebrew Lunar Calendar.
+# In the Hebrew Lunar Calendar, it is the 25th of Kislev.
+# If a mechanic of calculating other calendars is given to her, this should 
+# be updated accordingly; this may assist in holiday calendar construction.
+
 for key in ['hanukkah','chanukah','menorah','latkes','suganiyot','hanukah']:
-  monika_topics.setdefault(key,[])
-  monika_topics[key].append('monika_hanukkah') # Identifier
-  monika_random_topics.append('monika_hanukkah')
+    monika_topics.setdefault(key,[])
+    monika_topics[key].append('monika_hanukkah') # Identifier
 
 label monika_hanukkah
     m 1q "One for each night, they shed a sweet light, to remind of days long ago~"
@@ -191,6 +196,9 @@ label monika_hanukkah
     m 2e "It is said in the Jewish tradition, that one day's worth of olive oil gave the menorah eight days of light."
     m "Hanukkah is a time of remembrance of such traditions but it is also of celebration."
     m 1b "And a celebration it is! Eight nights worth~"
+    m "Hanukkah also shifts a bit from year to year. It is calculated using the Hebrew Lunar Calendar."
+    m "For that calendar, it is the 25th of Kislev. It is often said that it means 'trust' or 'hope'!"
+    m "A very appropriate meaning for such an occasion~ Both concepts to keep in our hearts as well~"
     m 1a "[player], have you had fried sufganiyot before? It's a specific kind of jelly doughnut made during that holiday."
     m "I like ones filled with strawberry jam~"
     m 1b "This time of the year has so many wonderful holidays and traditions!"
